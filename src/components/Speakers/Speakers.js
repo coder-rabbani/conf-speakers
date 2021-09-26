@@ -4,8 +4,13 @@ import Speaker from '../Speaker/Speaker';
 import './Speakers.css';
 
 const Speakers = () => {
+    // declare state for speakers
     const [speakers, setSpeakers] = useState([]);
+
+    // declare state for cart
     const [cart, setCart] = useState([]);
+
+    //data load from json file use useEffect Hook
     useEffect(()=>{
         fetch('./speakers.JSON')
         .then(res => res.json())
@@ -16,6 +21,7 @@ const Speakers = () => {
         const newCart = [...cart, speaker];
         setCart(newCart);
     }
+    //main container and it is parent component
     return (
         <div className="main-Container">
             <div className="speaker-container">

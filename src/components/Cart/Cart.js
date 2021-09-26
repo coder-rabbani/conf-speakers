@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faPaperPlane } from '@fortawesome/free-solid-svg-icons';
 import './Cart.css';
 
+//cart component
 const Cart = (props) => {
     const {cart} = props;
     const paperIcon = <FontAwesomeIcon icon={faPaperPlane} />

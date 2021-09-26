@@ -1,11 +1,17 @@
 import React from 'react';
+
+//import font awesome
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faPlus } from '@fortawesome/free-solid-svg-icons';
+
 import './Speaker.css';
 
 const Speaker = (props) => {
+    //desstructuring opject from props
     const {name, designation, age, img, price, founder} = props.speaker;
     const plusIcon = <FontAwesomeIcon icon={faPlus} />
+    
+    //single speaker card
     return (
         <div className="speaker">
             <div className="speaker-photo">

@@ -1,0 +1,110 @@
+[
+    {
+        "key": "DKFDLNDFKLK",
+        "name": "David Walsh",
+        "designation": "Software Engineer at Mozilla",
+        "age": 45,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/dawid-walsh.webp",
+        "price": 4000,
+        "founder": "MooTools, MetaMask, SitePen"
+    }, 
+    {
+        "key": "FDKJFDNFLDF",
+        "name": "Piotr Kowalski",
+        "designation": "Web Application Developer",
+        "age": 35,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/piotr-kowalski.webp",
+        "price": 5000,
+        "founder": "WarsawJS, ConFrontJS"
+    },
+    {
+        "key": "FDKJDLKFNFLDF",
+        "name": "Szymon Piłkowski",
+        "designation": "Sofware Engineer",
+        "age": 31,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/szymon-pilkowski.webp",
+        "price": 3500,
+        "founder": "Molecule.one"
+    },   
+    {
+        "key": "FDKJDLTDFDLDF",
+        "name": "Ben Nadel",
+        "designation": "Developer at InVision App",
+        "age": 38,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/ben-nadel.webp",
+        "price": 4200,
+        "founder": "ColdFusio"
+    },   
+    {
+        "key": "EURKSLFNSDS",
+        "name": "Shawn Wang",
+        "designation": "Developer at Netlify",
+        "age": 27,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/shawn-wang.webp",
+        "price": 6000,
+        "founder": "Temporal.io"
+    },   
+    {
+        "key": "PERTIERIOJG",
+        "name": "Tania Rascia",
+        "designation": "Senior Software Engineer",
+        "age": 29,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/tania-rascia.webp",
+        "price": 6000,
+        "founder": "Balto AI"
+    },   
+    {
+        "key": "DLKSIAVMDR",
+        "name": "Khriztian Moreno",
+        "designation": "Senior JavaScript developer",
+        "age": 28,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/khriztian-moreno.webp",
+        "price": 3200,
+        "founder": "Medellin.js"
+    },   
+    {
+        "key": "EUSDFSKDFH",
+        "name": "Kent C. Dodds",
+        "designation": "JavaScript software engineer",
+        "age": 31,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/kent-c-dodds.webp",
+        "price": 5500,
+        "founder": "Chats with Kent"
+    },   
+    {
+        "key": "POWBXMJXDF",
+        "name": "Robin Weiruch",
+        "designation": "Self-taught Software Engineer",
+        "age": 26,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/robin-weiruch.webp",
+        "price": 2500,
+        "founder": "The Road to React"
+    },   
+    {
+        "key": "SDFSDFMJXDF",
+        "name": "Paolo Duzioni",
+        "designation": "Senior Front-end Developer",
+        "age": 37,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/paolo-duzioni.webp",
+        "price": 3700,
+        "founder": "Boolean Careers"
+    },   
+    {
+        "key": "SDFSASFXDF",
+        "name": "JC Smiley",
+        "designation": "React Developer",
+        "age": 36,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/js-smiley.webp",
+        "price": 4100,
+        "founder": "Code-Connective"
+    },   
+    {
+        "key": "SZSFZSFDF",
+        "name": "Jennifer Ponder",
+        "designation": "Technical Solutions Leader",
+        "age": 33,
+        "img": "https://blog.codersrank.io/wp-content/uploads/2021/05/Jenifer-ponder.webp",
+        "price": 3900,
+        "founder": "STEM Atlanta Women"
+    }  
+]

@@ -1,0 +1,20 @@
+.cart-info{
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    border-radius: 15px;
+}
+.cart-info h3, h4{
+    font-size: 18px;
+}
+.cart-info h4{
+    padding-top:10px;
+}
+.speaker-name{
+    margin-top:20px;
+    font-size: 16px;
+}
+
+.cart-btn{
+    width: 100%;
+    margin-top:15px;
+}

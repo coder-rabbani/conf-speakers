@@ -2,5 +2,8 @@
 
 Project Link: [Click Here to visit](https://book-speakers.netlify.app/)
 
-## Available Scripts
+## Project Specifications
+1. You Can book speakers through book speakers for conference app
+2. It is built with React
+3. There are 4 components
 
